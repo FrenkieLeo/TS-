@@ -1,0 +1,8 @@
+{
+  "name": "3b1819--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "4.7.4"
+  }
+}
